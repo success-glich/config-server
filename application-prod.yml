@@ -1,1 +1,4 @@
-spring.application.name=review-ms-prod
+spring:
+  application:
+     name: review-ms-prod
+    
